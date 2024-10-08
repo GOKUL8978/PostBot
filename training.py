@@ -28,7 +28,7 @@ import os
 
 
 client = Groq(
-    api_key="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"
+    api_key=""
 )
 
 # Load the tokenizer
